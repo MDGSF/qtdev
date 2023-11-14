@@ -36,4 +36,8 @@ make -j16
 make install
 ```
 
-## container 里面安装 qt 开发环境
+## qt 常识
+
+- 一般来说是Qt4.8原配VS2010，Qt5.6原配VS2013，Qt5.9原配VS2015，Qt5.12原配VS2017，Qt5.15原配VS2019。
+- widget 使用 CPU，qml 使用 GPU，官方在推 qml。
+
