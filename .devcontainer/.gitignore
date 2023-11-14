@@ -1,0 +1,6 @@
+bazel/bazel-6.0.0-installer-linux-x86_64.sh
+bazel/buildifier
+ohmyzsh/.oh-my-zsh
+vim/.MyVim
+language/golang/go-1.21.3
+language/javascript/nvm-0.39.5
