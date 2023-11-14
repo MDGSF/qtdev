@@ -1,5 +1,14 @@
 # qtdev
 
+## 学习资源
+
+- <https://github.com/feiyangqingyun/qtkaifajingyan>
+
+## qt 常识
+
+- 一般来说是Qt4.8原配VS2010，Qt5.6原配VS2013，Qt5.9原配VS2015，Qt5.12原配VS2017，Qt5.15原配VS2019。
+- widget 使用 CPU，qml 使用 GPU，官方在推 qml。
+
 ## devcontainer
 
 使用前需要先把 `.devcontainer/.gitignore` 中的东西准备好。
@@ -35,9 +44,4 @@ export LLVM_INSTALL_DIR=/usr/lib/llvm-18
 make -j16
 make install
 ```
-
-## qt 常识
-
-- 一般来说是Qt4.8原配VS2010，Qt5.6原配VS2013，Qt5.9原配VS2015，Qt5.12原配VS2017，Qt5.15原配VS2019。
-- widget 使用 CPU，qml 使用 GPU，官方在推 qml。
 
